@@ -278,7 +278,9 @@ function arlo_tm_projects() {
 	jQuery('.arlo_tm_portfolio_animation_wrap').each(function() {
 		jQuery(this).on('mouseenter', function() {
 			if (jQuery(this).data('title')) {
-				jQuery('.arlo_tm_portfolio_titles').html(jQuery(this).data('title') + '<span class="work__cat">' + jQuery(this).data('category') + '</span>');
+				jQuery('.arlo_tm_portfolio_titles').html(jQuery(this).data('title'));
+				//  + '<span class="work__cat">' + jQuery(this).data('category') + '</span>');
+				// Removed category when project is hovered
 				jQuery('.arlo_tm_portfolio_titles').addClass('visible');
 			}
 
