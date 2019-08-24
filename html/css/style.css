@@ -994,8 +994,9 @@ img.svg{
 .arlo_tm_services_wrap .list_wrap ul li{
 	margin: 0px 0px 30px 0px;
 	float: left;
-	width: 33.3333%;
+	width: 25%;
 	padding-left: 30px;
+	text-align: center;
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
@@ -1035,6 +1036,10 @@ img.svg{
     font-weight: 600;
     color: #000000;
 	line-height: 1;
+}
+.colored {
+	font-size: 5rem;
+	height: 80px;
 }
 
 /*---------------------------------------------------*/
@@ -2358,7 +2363,7 @@ img.svg{
 	.arlo_tm_title_holder h3{font-size: 45px;}
 	.arlo_tm_title_holder:before{top: -2px;}
 	.arlo_tm_services_wrap .list_wrap ul{margin: 0px;}
-	.arlo_tm_services_wrap .list_wrap ul li{width: 100%;padding-left: 0px;}
+	.arlo_tm_services_wrap .list_wrap ul li{width: 50%;padding-left: 0px;}
 	.arlo_tm_counter_list li{width: 50%;}
 	.arlo_tm_counter_list li .inner{padding: 45px 15px 48px 15px;}
 	.arlo_tm_portfolio_list > li{width: 50%;}
