@@ -178,7 +178,7 @@ img.svg{
 	height: auto;
 	clear: both;
 	float: left;
-	padding: 0px 20px 0px 60px;
+	padding: 150px 20px 0px 60px;
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
@@ -250,6 +250,7 @@ img.svg{
 .arlo_tm_leftpart_wrap .leftpart_bottom .social_wrap ul li{
 	margin: 0px 10px 0px 0px;
 	display: inline-block;
+	font-size: 30px;
 }
 .arlo_tm_leftpart_wrap .leftpart_bottom .social_wrap ul li:last-child{margin-right: 0px;}
 .arlo_tm_leftpart_wrap .leftpart_bottom .social_wrap ul li a{
@@ -329,7 +330,7 @@ img.svg{
 	height: auto;
 	clear: both;
 	float: left;
-	margin-bottom: 100px;
+	margin-bottom: 50px;
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
@@ -509,14 +510,14 @@ img.svg{
 	clear: both;
 	float: left;
 	text-align: left;
-	padding-bottom: 100px;
+	/* padding-bottom: 50px; */
 	position: relative;
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
 			box-sizing: border-box; /* Opera/IE 8+ */
 }
-.arlo_tm_title_holder.contact{padding-bottom: 93px;}
+.arlo_tm_title_holder.contact{padding-bottom: 50px;}
 .arlo_tm_title_holder:before{
 	position: absolute;
 	content: "";
@@ -635,7 +636,7 @@ img.svg{
 	height: auto;
 	clear: both;
 	float: left;
-	padding-bottom: 122px;
+	padding-bottom: 50px;
 	position: relative;
 	margin-top: -6px;
 	
@@ -963,13 +964,14 @@ img.svg{
 /*	04) ARLO SERVICES
 /*---------------------------------------------------*/
 
+.arlo_tm_title_holder.services{padding-bottom: 50px;}
 .arlo_tm_services_wrap{
 	width: 100%;
 	height: auto;
 	clear: both;
 	float: left;
 	background-color: #fff;
-	margin-bottom: 70px;
+	margin-bottom: 20px;
 	text-align: left;
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
@@ -1040,6 +1042,9 @@ img.svg{
 .colored {
 	font-size: 5rem;
 	height: 80px;
+}
+div.list_wrap ul li.skill_image {
+	margin-top: 2px;
 }
 
 /*---------------------------------------------------*/
@@ -1119,13 +1124,13 @@ img.svg{
 /*	06) ARLO PORTFOLIO
 /*---------------------------------------------------*/
 
-.arlo_tm_title_holder.portfolio{padding-bottom: 90px;}
+.arlo_tm_title_holder.portfolio{padding-bottom: 50px;}
 .arlo_tm_portfolio_wrapper_all{
 	width: 100%;
 	height: auto;
 	clear: both;
 	float: left;
-	padding-bottom: 70px;
+	padding-bottom: 50px;
 	background-color: #f6f7fd;
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
@@ -1822,7 +1827,7 @@ img.svg{
 }
 .arlo_tm_contact_wrap .subtitle p{color: #333;}
 .arlo_tm_contact_wrap .main_input_wrap{
-	margin-bottom: 75px;
+	margin-bottom: 25px;
 	position: relative;
 	top: -24px;
 }
