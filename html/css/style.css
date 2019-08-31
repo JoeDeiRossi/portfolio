@@ -2170,7 +2170,7 @@ div.list_wrap ul li.skill_image {
 /*---------------------------------------------------*/
 
 .mobile_header {
-	color: white;
+	color: white !important;
 	font-size: 24px;
 }
 
@@ -2372,7 +2372,7 @@ div.list_wrap ul li.skill_image {
 	.arlo_tm_title_holder h3{font-size: 45px;}
 	.arlo_tm_title_holder:before{top: -2px;}
 	.arlo_tm_services_wrap .list_wrap ul{margin: 0px;}
-	.arlo_tm_services_wrap .list_wrap ul li{width: 49.9%;padding-left: 0px;}
+	.arlo_tm_services_wrap .list_wrap ul li{width: 48%;padding-left: 2%;}
 	.arlo_tm_counter_list li{width: 50%;}
 	.arlo_tm_counter_list li .inner{padding: 45px 15px 48px 15px;}
 	.arlo_tm_portfolio_list > li{width: 50%;}
