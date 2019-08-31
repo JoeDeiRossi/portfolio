@@ -997,7 +997,7 @@ img.svg{
 	float: left;
 	width: 25%;
 	padding-left: 30px;
-	/* text-align: center; */
+	text-align: center;
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
