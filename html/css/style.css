@@ -991,15 +991,13 @@ img.svg{
 .arlo_tm_services_wrap .list_wrap ul{
 	margin: 0px 0px 0px -30px;
 	list-style-type: none;
-	display: flex;
-	flex-wrap: wrap;
 }
 .arlo_tm_services_wrap .list_wrap ul li{
 	margin: 0px 0px 30px 0px;
 	float: left;
 	width: 25%;
 	padding-left: 30px;
-	text-align: center;
+	/* text-align: center; */
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
