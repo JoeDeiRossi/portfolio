@@ -2336,7 +2336,7 @@ div.list_wrap ul li.skill_image {
 	.arlo_tm_about_wrap .leftbox{padding-right: 0px;}
 }
 @media (max-width: 1200px) {
-	.arlo_tm_services_wrap .list_wrap ul li{width: 49%;}
+	.arlo_tm_services_wrap .list_wrap ul li{width: 40%;}
 	#arlo_tm_popup_blog .close{right: 0px;}
 	.arlo_tm_list_wrap > ul.total > li{width: 50%;}
 	.arlo_tm_contact_wrap_all .leftbox{width: 100%;padding-right: 0px;margin-bottom: 19px;}
@@ -2367,7 +2367,7 @@ div.list_wrap ul li.skill_image {
 	.arlo_tm_title_holder h3{font-size: 45px;}
 	.arlo_tm_title_holder:before{top: -2px;}
 	.arlo_tm_services_wrap .list_wrap ul{margin: 0px;}
-	.arlo_tm_services_wrap .list_wrap ul li{width: 49%;padding-left: 0px;}
+	.arlo_tm_services_wrap .list_wrap ul li{width: 40%;padding-left: 0px;}
 	.arlo_tm_counter_list li{width: 50%;}
 	.arlo_tm_counter_list li .inner{padding: 45px 15px 48px 15px;}
 	.arlo_tm_portfolio_list > li{width: 50%;}
