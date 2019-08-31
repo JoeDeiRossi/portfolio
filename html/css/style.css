@@ -2328,10 +2328,10 @@ div.list_wrap ul li.skill_image {
 	font-size: 19px;
 }
 
-p.mobile_header {
+/* p.mobile_header {
 	color: white;
 	font-size: 24px;
-}
+} */
 
 /*---------------------------------------------------*/
 /*	15) ARLO MEDIA QUERIES (FOR SMALL DEVIVES)
@@ -2372,7 +2372,7 @@ p.mobile_header {
 	.arlo_tm_title_holder h3{font-size: 45px;}
 	.arlo_tm_title_holder:before{top: -2px;}
 	.arlo_tm_services_wrap .list_wrap ul{margin: 0px;}
-	.arlo_tm_services_wrap .list_wrap ul li{width: 49%;padding-left: 0px;margin-left: 1%}
+	.arlo_tm_services_wrap .list_wrap ul li{width: 49%;padding-left: 0px}
 	.arlo_tm_counter_list li{width: 50%;}
 	.arlo_tm_counter_list li .inner{padding: 45px 15px 48px 15px;}
 	.arlo_tm_portfolio_list > li{width: 50%;}
